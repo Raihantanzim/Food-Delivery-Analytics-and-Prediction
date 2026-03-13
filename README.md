@@ -1,5 +1,6 @@
-![image alt](https://github.com/Raihantanzim/Machine-Learning/blob/9bea35245988ff7fef6f43f2cebe7c19c45cdc96/Machine%20Learning%20in%20Food%20Delivery%20Operations.jpg)
 # Machine-Learning
+![image alt](https://github.com/Raihantanzim/Machine-Learning/blob/9bea35245988ff7fef6f43f2cebe7c19c45cdc96/Machine%20Learning%20in%20Food%20Delivery%20Operations.jpg)
+
 Machine Learning coursework on a food delivery dataset (1,000 orders): EDA + K-Means clustering, delivery-time regression (Random Forest), and complaint prediction (Balanced Random Forest) using creation-time features only to avoid leakage.
 
 
