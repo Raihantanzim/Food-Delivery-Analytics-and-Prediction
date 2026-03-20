@@ -4,9 +4,9 @@
 Machine Learning coursework on a food delivery dataset (1,000 orders): EDA + K-Means clustering, delivery-time regression (Random Forest), and complaint prediction (Balanced Random Forest) using creation-time features only to avoid leakage.
 
 
-Food Delivery ML Coursework (COMP1816)
+Food Delivery Operation
 
-This repository contains my COMP1816 Machine Learning coursework using a historical food delivery dataset (1,000 orders; 18 columns). The work follows a leakage-safe setup by using only order creation-time information for prediction.
+This repository contains my Machine Learning project using a historical food delivery dataset (1,000 orders; 18 columns). The work follows a leakage-safe setup by using only order creation-time information for prediction.
 
 Project goals
 
